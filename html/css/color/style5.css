@@ -1,0 +1,122 @@
+/*================================================================ style 5 ===================================================================*/
+
+.option {
+    background-color:#d52789;
+}
+.title-icon {
+    color: #d52789;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: #d52789;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #d52789 !important;
+}
+.navbar-nav a.active.small {
+    color: #d52789  !important;
+}
+.carousel-indicators .active {
+    background-color: #d52789;
+    border-color: #d52789;
+}
+.carousel-control:hover {
+    color: #d52789;
+}
+.home-text h3 {
+    color: #d52789;
+}
+.home-contact1 {
+    background-color: #d52789;
+    border: 1px solid #d52789;
+}
+.about-details h3 {
+    color: #d52789;
+}
+.about-details a {
+    background-color: #d52789;
+    border: 1px solid #d52789;
+}
+.stat-icon {
+    color: #d52789;
+}
+.menu-title h3 {
+    color: #d52789;
+}
+.about-indicators .active {
+    background: #d52789;
+}
+.special-menu-details h3 {
+    color: #d52789;
+}
+.learn-more {
+    background-color: #d52789;
+    border: 1px solid #d52789;
+}
+.media-body h2 span {
+    color: #d52789;
+}
+.gallery-title h3 {
+    color: #d52789;
+}
+.overlay {
+    background-color: #d52789;
+}
+#filters li span.active {
+    background: #d52789;
+}
+.fancybox-skin {
+    background: #d52789;
+}
+.service-title h3 {
+    color: #d52789;
+}
+.service-media-body h3{
+    color: #d52789;
+}
+.cheff-title h3 {
+    color: #d52789;
+}
+.cheff-details h3 {
+    color: #d52789;
+}
+.cheff-social li a:hover {
+    color: #d52789;
+}
+.message-client h3 {
+    color: #d52789;
+}
+.message-client a {
+    background-color: #d52789;
+    border: 1px solid #d52789;
+}
+.testimonial-title h3 {
+    color: #d52789;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+    background-color: #d52789;
+}
+.item blockquote p span {
+    color: #d52789;
+}
+.contact-title h3 {
+    color: #d52789;
+}
+.btn-success.disabled {
+    background-color: #d52789;
+    border-color: #d52789;
+}
+.btn.disabled:hover{
+    background-color: #d52789;
+    border-color: #d52789;
+}
+.btn-success:hover{
+    background-color: #d52789;
+    border-color: #d52789;
+}
+.btn-success {
+    background-color: #d52789;
+    border-color: #d52789;
+}
+.contact-col h3 {
+    color: #d52789;
+}

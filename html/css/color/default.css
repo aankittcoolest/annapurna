@@ -1,0 +1,126 @@
+
+
+/*====================================================== default color theme =====================================================*/
+
+.option {
+    background-color:#e94040;
+}
+.title-icon {
+    color: #e94040;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: #e94040;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #e94040 !important;
+}
+.navbar-nav a.active.small {
+    color: #e94040  !important;
+}
+.carousel-indicators .active {
+    background-color: #e94040;
+    border-color: #e94040;
+}
+.carousel-control:hover {
+    color: #e94040;
+}
+.home-text h3 {
+    color: #e94040;
+}
+.home-contact1 {
+    background-color: #e94040;
+    border: 1px solid #e94040;
+}
+.about-details h3 {
+    color: #e94040;
+}
+.about-details a {
+    background-color: #e94040;
+    border: 1px solid #e94040;
+}
+.stat-icon {
+    color: #e94040;
+}
+.menu-title h3 {
+    color: #e94040;
+}
+.about-indicators .active {
+    background: #e94040;
+}
+.special-menu-details h3 {
+    color: #e94040;
+}
+.learn-more {
+    background-color: #e94040;
+    border: 1px solid #e94040;
+}
+.media-body h2 span {
+    color: #e94040;
+}
+.gallery-title h3 {
+    color: #e94040;
+}
+.overlay {
+    background-color: #e94040;
+}
+#filters li span.active {
+    background: #e94040;
+}
+.fancybox-skin {
+    background: #e94040;
+}
+.service-title h3 {
+    color: #e94040;
+}
+.service-media-body h3{
+    color: #e94040;
+}
+.cheff-title h3 {
+    color: #e94040;
+}
+.cheff-details h3 {
+    color: #e94040;
+}
+.cheff-social li a:hover {
+    color: #e94040;
+}
+.message-client h3 {
+    color: #e94040;
+}
+.message-client a {
+    background-color: #e94040;
+    border: 1px solid #e94040;
+}
+.testimonial-title h3 {
+    color: #e94040;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+    background-color: #e94040;
+}
+.item blockquote p span {
+    color: #e94040;
+}
+.contact-title h3 {
+    color: #e94040;
+}
+.btn-success.disabled {
+    background-color: #e94040;
+    border-color: #e94040;
+    color: white;
+    cursor: not-allowed;
+}
+.btn.disabled:hover{
+    background-color: #e94040;
+    border-color: #e94040;
+}
+.btn-success:hover{
+    background-color: #e94040;
+    border-color: #e94040;
+}
+.btn-success {
+    background-color: #e94040;
+    border-color: #e94040;
+}
+.contact-col h3 {
+    color: #e94040;
+}
